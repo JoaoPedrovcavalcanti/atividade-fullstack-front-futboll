@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "Futebol",
+    "slug": "futebol-frontend",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "ios": { "supportsTablet": true },
+    "web": {}
+  }
+}
